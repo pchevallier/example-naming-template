@@ -103,6 +103,15 @@ Custom entities are variables and allowed values that describe our business and 
 |<sub>Marketing</sub>|<sub>global</sub>|<sub>az[12]</sub>|<sub>marketing</sub>|
 |<sub>Security</sub>|<sub>global</sub>|<sub>az[12]</sub>|<sub>security</sub>|
 
+## custom.division
+
+|<sub>Full Text</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Value</sub>|
+| ------ | ------ | ------ | ------ |
+|<sub>United States</sub>|<sub>global</sub>|<sub>az[2]</sub>|<sub>us</sub>|
+|<sub>United Kingdom</sub>|<sub>global</sub>|<sub>az[2]</sub>|<sub>uk</sub>|
+|<sub>Argentina</sub>|<sub>global</sub>|<sub>az[2]</sub>|<sub>ar</sub>|
+|<sub>Australia</sub>|<sub>global</sub>|<sub>az[2]</sub>|<sub>au</sub>|
+
 ## custom.environment
 
 |<sub>Full Text</sub>|<sub>Scope</sub>|<sub>Rule</sub>|<sub>Value</sub>|
