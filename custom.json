@@ -1,4 +1,17 @@
 {
+   "division": {
+      "category": "Custom",
+      "entity": "division",
+      "scope": "global",
+      "maxlength": "2",
+      "rule": "az",
+      "allowed_values": {
+         "us": "United States",
+         "uk": "United Kingdom",
+         "ar": "Argentina",
+         "au": "Australia"
+      }
+   },   
    "market": {
       "category": "Custom",
       "entity": "market",
